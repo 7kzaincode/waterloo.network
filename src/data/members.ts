@@ -87,6 +87,21 @@ export const members: Member[] = [
   // ============================================
 
   {
+    id: "jamie-seoh",
+    name: "Jamie Seoh",
+    website: "https://dwseoh.com",
+    program: "Software Engineering",
+    year: "2030",
+    roles: ["engineering", "ai/ml", "software"],
+    verticals: ["ai", "robotics", "consumer"],
+    profilePic: "/photos/jamie-seoh.jpg",
+    instagram: "https://instagram.com/dongwan_seoh",
+    twitter: "https://x.com/sdw1_",
+    linkedin: "https://linkedin.com/in/jamie-seoh",
+    connections: ["fiona-cai","ricky-tang","abdullah-rajput","vidu-widyalankara","victor-huang"],
+  },
+  
+  {
     id: "mubarak-piracha",
     name: "Mubarak Ali Piracha",
     website: "https://mubarakpiracha.xyz",
