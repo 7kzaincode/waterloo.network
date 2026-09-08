@@ -680,7 +680,7 @@ export const members: Member[] = [
     instagram: "https://www.instagram.com/7k.zain/",
     twitter: "https://x.com/sevenkzain",
     linkedin: "https://www.linkedin.com/in/zainkkhan/",
-    connections: [abdullah-rajput]
+    connections: ["abdullah-rajput"],
   },
   // ADD YOUR ENTRY ABOVE THIS LINE
   // ============================================
