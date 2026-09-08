@@ -87,6 +87,19 @@ export const members: Member[] = [
   // ============================================
 
   {
+    id: "rohanth-marem",
+    name: "Rohanth Marem",
+    website: "https://rohanth.com",
+    program: "Computer Science",
+    year: "2030",
+    roles: ["engineering", "software", "hardware"],
+    verticals: ["robotics", "ai", "healthcare"],
+    profilePic: "/photos/rohanth-marem.jpg",
+    twitter: "https://x.com/rohanthmarem",
+    connections: ["shayaan-azeem", "daniel-ching", "kevin-thomas", "austin-jian", "casper-dong", "zane-beeai"],
+  },
+
+  {
     id: "jamie-seoh",
     name: "Jamie Seoh",
     website: "https://dwseoh.com",
