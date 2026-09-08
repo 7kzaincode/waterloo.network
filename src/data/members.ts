@@ -642,6 +642,18 @@ export const members: Member[] = [
     linkedin: "https://www.linkedin.com/in/anahat-kc/",
     connections: ["shayaan-azeem"]
   },
+  {
+    id: "ali-imran",
+    name: "Ali Imran",
+    website: "https://aliimrans.com",
+    program: "Software Engineering",
+    roles: ["engineering", "ai/ml", "software"],
+    verticals: ["ai", "robotics", "saas"],
+    profilePic: "/photos/ali-imran.jpg",
+    twitter: "https://x.com/aliidevs",
+    linkedin: "https://www.linkedin.com/in/ali-intelligence",
+    connections: ["shayaan-azeem", "abdullah-rajput", "ricky-tang", "pranav-marthi"],
+  },
   // ADD YOUR ENTRY ABOVE THIS LINE
   // ============================================
 ];
