@@ -244,7 +244,7 @@ export const members: Member[] = [
   {
     id: "aayan-rahman",
     name: "Aayan Rahman",
-    website: "https://aayanrahman.me",
+    website: "https://ece.uwaterloo.ca/~a235rahm/",
     program: "Electrical Engineering",
     year: "2030",
     // options: engineering, design, product, growth, ai/ml, research, hardware, quant, software, finance, vc
@@ -255,7 +255,7 @@ export const members: Member[] = [
     instagram: "https://www.instagram.com/aayanr300/",
     twitter: "https://x.com/aayanr07",
     linkedin: "https://www.linkedin.com/in/aayan-rahman/",
-    connections: ["zane-beeai", "shayaan-azeem"],
+    connections: ["zane-beeai", "shayaan-azeem", "casper-dong", "avaansh-nanda"],
   },
   {
     id: "ibrahim-ansari",
